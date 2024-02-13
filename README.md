@@ -29,6 +29,3 @@ Quando l'utente inserisce un messaggio, lo script aggiorna lo storico delle conv
 
 Questo esempio dimostra la potenza delle API di OpenAI per creare applicazioni interattive basate su conversazioni testuali e vocali. Può essere adattato e ampliato in vari modi, ad esempio per sviluppare assistenti virtuali, sistemi di risposta automatica per il supporto clienti o applicazioni educative interattive.
 
-### Considerazioni Finali
-
-Mentre questo script offre un solido punto di partenza, gli sviluppatori possono esplorare ulteriori funzionalità fornite da OpenAI e `pygame` per arricchire l'esperienza utente, migliorare l'interfaccia o personalizzare le risposte in base alle esigenze specifiche. Inoltre, è essenziale gestire le chiavi API con cautela per garantire la sicurezza e la privacy.
